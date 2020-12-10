@@ -7,7 +7,7 @@ const Navbar = ({ pathname }) => {
       <nav className="navbar navbar-expand-lg navbar-dark  px-4 ">
         <img src={`${process.env.PUBLIC_URL}/images/logos/logo.png`} className="mr-2" width="30" height="30" alt="" />
         <Link to="/" className="navbar-brand">
-          CF Problem
+          Codeforces
         </Link>
         <button
           className="navbar-toggler"
@@ -24,7 +24,7 @@ const Navbar = ({ pathname }) => {
           <ul className="navbar-nav mr-auto">
             <li className="nav-item">
               <Link className={`nav-link ${pathname === '/codeforces' ? 'active' : ''}`} to="/codeforces">
-                Codeforces
+                Contests
               </Link>
             </li>
 

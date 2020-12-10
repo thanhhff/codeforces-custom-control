@@ -13,10 +13,9 @@ function Home() {
       >
         <div className="home-content text-white">
           <div className="home-shadow-box px-3 py-4">
-            <h1 style={{ fontSize: 'xxx-large' }}> Contestmania </h1>
+            <h1 style={{ fontSize: 'xxx-large' }}> Codeforces Contests </h1>
             <div className="home-text d-inline-block" style={{ maxWidth: '700px', fontSize: '1.2rem' }}>
-              It is a platform to practice questions on different competetive wesites with lot of features like category
-              wise questions on Codforces. You can also find company wise problems on Company page.
+              Represents a contest on Codeforces.
             </div>
           </div>
         </div>

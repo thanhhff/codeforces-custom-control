@@ -84,8 +84,8 @@ body {
   position: fixed;
   top: 0%;
   width: 100%;
-  background-color: #173b5c;
-  background-image: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+  background-color: #4e73df;
+  /*background-image: linear-gradient(#4e73df 0%,#224abe 100%);*/
   z-index: 1060;
   box-sizing: border-box;
 }
@@ -152,7 +152,7 @@ body {
 
 .visits:hover,
 .report-issue:hover {
-  background-color: #173b5c;
+  background-color: #4e73df;
 }
 
 .report-issue {
@@ -175,7 +175,9 @@ body {
 }
 
 #cf-table th {
-  background-color: #173b5c;
+  background-color: #4e73df;
+  /*border-color: #ffffff;*/
+  border: 1px solid #dee2e6;
 }
 
 #cf-table .bg-solved {
@@ -210,7 +212,7 @@ body {
 }
 
 #cc-table th {
-  background-color: #173b5c;
+  background-color: #4e73df;
 }
 
 /* Problems Table */
@@ -229,12 +231,12 @@ body {
 }
 
 #problems-table .problem-solved .list-group-item.active {
-  background-color: #173b5c;
+  background-color: #4e73df;
 }
 
 #problems-table .list-group-item.active {
-  background-color: #173b5c;
-  border-color: #173b5c;
+  background-color: #4e73df;
+  border-color: #4e73df;
 }
 
 #problems-table .problems-inner-table {
@@ -247,7 +249,7 @@ body {
 }
 
 #company-table th {
-  background-color: #173b5c;
+  background-color: #4e73df;
 }
 
 #company-table .bg-solved {
@@ -268,7 +270,7 @@ body {
 }
 
 #upcoming-table th {
-  background-color: #173b5c;
+  background-color: #4e73df;
 }
 
 .upcoming-logo {

@@ -1,6 +1,4 @@
-# Contest Mania
-
-A Web-portal for keep track of your competitive programming on various platforms. Project is live at [https://contestmania.web.app](https://contestmania.web.app).
+# Codeforces Contest
 
 ## Features Planned
 
@@ -31,7 +29,7 @@ A Web-portal for keep track of your competitive programming on various platforms
 ### Run Software
 
 1. Clone Repo
-   - `$> git clone https://github.com/Surya1231/ContestMania.git`
+   - `$> git clone https://github.com/thanhhff/codeforces-custom-control.git`
 2. Change Directory
    - `$> cd ContestMania/`
 3. Install Dependencies
@@ -45,7 +43,3 @@ A Web-portal for keep track of your competitive programming on various platforms
 - Build Project `npm run build`
 - Prettify Code `npm run prettify`
 - Test `npm run test`
-
-## Contact Me
-
-- [Suryaprakash Agarwal](https://surya1231.github.io/)
