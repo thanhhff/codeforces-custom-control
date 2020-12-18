@@ -4,9 +4,7 @@
 
 - Contest ( category wise contest from different websites)
 - User (Get user info)
-- Upcoming ( list of upcoming contest)
 - Problems (trending problems)
-- About ( Description of portal)
 
 ## Status
 
@@ -30,11 +28,9 @@
 
 1. Clone Repo
    - `$> git clone https://github.com/thanhhff/codeforces-custom-control.git`
-2. Change Directory
-   - `$> cd ContestMania/`
-3. Install Dependencies
+2. Install Dependencies
    - `$> npm install`
-4. Start server
+3. Start server
    - `$> npm start`
 
 ### Supported Scripts
