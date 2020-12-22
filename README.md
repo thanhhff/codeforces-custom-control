@@ -5,10 +5,13 @@
 - Contest ( category wise contest from different websites)
 - User (Get user info)
 - Problems (trending problems)
+<<<<<<< Updated upstream
 
 ## Status
 
 - Website is live
+=======
+>>>>>>> Stashed changes
 
 ## Tech Stack
 
