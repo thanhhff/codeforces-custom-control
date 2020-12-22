@@ -95,14 +95,13 @@ const ProblemsTable = (props) => {
 
         <div className="col-md-12 px-1 order-2">
           <div className="alert alert-warning py-1" style={{ fontSize: '0.9rem' }}>
-            <li>Problems are sorted ratings wise. </li>
-            <li>Solutions references are taken from : {globalSolutionUsers.join(', ')} .</li>
+            {/*<li>Problems are sorted ratings wise. </li>*/}
+            {/*<li>Solutions references are taken from : {globalSolutionUsers.join(', ')} .</li>*/}
             <li>
-              Maximum of {QuestionLimit} problems are shown at a time for smooth functioning. Adjust filters to get more
-              questions.
+              Maximum of {QuestionLimit} problems are shown at a time for smooth functioning.
             </li>
-            <li>To get all non rated question apply rating filter 10000-10000.</li>
-            <li>For searching problems with multiple tags, separate them by ',' like "dp,greedy".</li>
+            {/*<li>To get all non rated question apply rating filter 10000-10000.</li>*/}
+            {/*<li>For searching problems with multiple tags, separate them by ',' like "dp,greedy".</li>*/}
           </div>
         </div>
       </div>
