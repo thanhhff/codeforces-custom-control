@@ -2,16 +2,9 @@
 
 ## Features Planned
 
-- Contest ( category wise contest from different websites)
+- Contest (category contest on Codeforces)
 - User (Get user info)
 - Problems (trending problems)
-<<<<<<< Updated upstream
-
-## Status
-
-- Website is live
-=======
->>>>>>> Stashed changes
 
 ## Tech Stack
 
